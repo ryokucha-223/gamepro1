@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Damage
+  - BG
+  - Goal
+  - backflow
+  - Scoreup
+  - player
+  - shot
+  - Enemy
+  - diya
+  - Bubble
+  - key
+  - EnemyShot
+  - safe
+  - slash
+  - BOSS
+  - sickle
+  - ThunderPos
+  - doar
+  - kagi
+  - Thunder
+  - lassl
+  - BossZone
+  - beam
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - player
+  - Water
+  - UI
+  - BG
+  - Item
+  - enemy
+  - Ground
+  - pos
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BG
+    uniqueID: 1374711975
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: pl
+    uniqueID: 3269991045
+    locked: 0
+  - name: UI
+    uniqueID: 538094277
+    locked: 0
